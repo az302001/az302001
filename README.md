@@ -1,7 +1,7 @@
 
 # 🚀Sobre Mi  
 
-¡Hola! Soy un joven de 21 años enfocado y motivado en seguir avanzando en mi carrera profesional. Me apasiona el mundo de la tecnología y cuento con experiencia en el desarrollo de software y programación en diversos lenguajes y tecnologías. Mi objetivo es encontrar una empresa que me brinde la oportunidad de crecer, alcanzar metas y cumplir objetivos.
+¡Hola! Soy un joven de 23 años enfocado y motivado en seguir avanzando en mi carrera profesional. Me apasiona el mundo de la tecnología y cuento con experiencia en el desarrollo de software y programación en diversos lenguajes y tecnologías. Mi objetivo es encontrar una empresa que me brinde la oportunidad de crecer, alcanzar metas y cumplir objetivos.
 Soy altamente adaptable y me acostumbro rápidamente a diferentes entornos laborales. Disfruto trabajando en equipo y puedo mantener la calma y rendir bajo presión. Estoy comprometido con lograr resultados excepcionales y estoy dispuesto a asumir nuevos desafíos.
 
 # Que tecnología Utilizo 
